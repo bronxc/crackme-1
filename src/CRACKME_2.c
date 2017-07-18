@@ -25,7 +25,7 @@ char *getPassword(char *login)
         return password;
 }
 
-int main()
+int main(void)
 {
         char usr_pswrd[STRING_MAX_SIZE] = "";
 

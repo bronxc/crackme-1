@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main()
+int main(void)
 {
         char usr_input[2048] = "";
 
