@@ -36,7 +36,7 @@ int main(void)
 
         printf((!strcmp(getPassword(usr_login), usr_pswrd)) ?
                      "Great Job! :) \n" :
-                     "Wrong password! Try! You'll got it!\n");
+                     "Wrong password! Try! You'll get it!\n");
 
         return 0;
 }
